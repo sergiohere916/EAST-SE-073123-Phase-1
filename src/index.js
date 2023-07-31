@@ -66,7 +66,7 @@ const inventory = [
 ]
 
 //✅ 1. Create hello world using REGULAR functions
-
+console.log("Hello World");
 //✅ 2. For Easley's bookstore, create formatPrice(price)
 
 //✅ 3. Make an arrow function version of formatPrice
